@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **joydipram@gmail.com**
+- 📫 How to reach me **ramjoydip@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bNvXiuP4DMaKB_-PormnbuHLIPwmGlrE/view?usp=drive_link](https://drive.google.com/file/d/1bNvXiuP4DMaKB_-PormnbuHLIPwmGlrE/view?usp=drive_link)
 
